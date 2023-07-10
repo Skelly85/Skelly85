@@ -13,7 +13,8 @@ I'm a recent graduate from Neue Fische's Data Science Bootcamp, actively enhanci
 Here is one of the key projects I've worked on:
 
 - **NeuralXpresso** 📹: A capstone project developed with a team of fellow students at the Neue Fische Data Science Bootcamp. We developed a tool using neural networks to analyze video content to detect human faces, classify individual people, and visualize their emotions throughout the video. (Include the link to the project if available)
-- **ml-project-air-pollution :
+- **ml-project-air-pollution** :
+- **EDA** :
   
 ## 📫 Contact Me
 
